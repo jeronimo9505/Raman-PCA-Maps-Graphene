@@ -1,0 +1,34 @@
+{
+    "raman_shift_range": [
+        "1495",
+        "1520"
+    ],
+    "directories": [
+        "C:\\Users\\Rodrigo\\OneDrive - unizar.es\\Espa\u00f1a\\Pj SERS with graphen\\03_Characterization\\04_Raman\\TFM- PCA\\BT-Au15nm\\Processed",
+        "C:\\Users\\Rodrigo\\OneDrive - unizar.es\\Espa\u00f1a\\Pj SERS with graphen\\03_Characterization\\04_Raman\\TFM- PCA\\BT-GAu15nm\\Processed",
+        "C:\\Users\\Rodrigo\\OneDrive - unizar.es\\Espa\u00f1a\\Pj SERS with graphen\\03_Characterization\\04_Raman\\TFM- PCA\\r6g- Si-PC-ME\\Processed",
+        "C:\\Users\\Rodrigo\\OneDrive - unizar.es\\Espa\u00f1a\\Pj SERS with graphen\\03_Characterization\\04_Raman\\TFM- PCA\\SI-PC-ME-G\\Processed",
+        "C:\\Users\\Rodrigo\\OneDrive - unizar.es\\Espa\u00f1a\\Pj SERS with graphen\\03_Characterization\\04_Raman\\TFM- PCA\\W-Bt-GAu15nm\\Processed",
+        "C:\\Users\\Rodrigo\\OneDrive - unizar.es\\Espa\u00f1a\\Pj SERS with graphen\\03_Characterization\\04_Raman\\TFM- PCA\\W-Si-PC-ME-Au15nm",
+        "C:\\Users\\Rodrigo\\OneDrive - unizar.es\\Espa\u00f1a\\Pj SERS with graphen\\03_Characterization\\04_Raman\\TFM- PCA\\BT-Au15nm-G\\Processed"
+    ],
+    "labels": [
+        "BT-Au15nm",
+        "BT-GAu15nm",
+        "Si-PC-ME-Au15nm",
+        "SI-PC-ME-Au15nm-G",
+        "W-BT-GAu15nm",
+        "W-Si-PC-ME-Au15nm",
+        "BT-Au15nm-G"
+    ],
+    "colors": [
+        "red",
+        "green",
+        "blue",
+        "orange",
+        "olive",
+        "magenta",
+        "gray"
+    ],
+    "title": "R6G "
+}
