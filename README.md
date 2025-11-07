@@ -9,12 +9,12 @@ This top-level README links the three notebook-based guides that document the Ra
   - Provides a notebook walkthrough of the PCA analysis workflow and deliverables.
   - Explains how `PCA_V9_bin_orig.py` loads spectra, runs the combined PCA canvas, and exports metrics.
   - Details the centroid math, signed σ distances, and the Excel/TXT artefacts generated from each run.
-- [`Raman Maps and Hebex Graphene/Hebex_Graphene_README.ipynb`](Raman%20Maps%20and%20Hebex%20Graphene/Hebex_Graphene_README.ipynb)
+- [`Hebex Graphene/Hebex_Graphene_README.ipynb`](Raman%20Maps%20and%20Hebex%20Graphene/Hebex_Graphene_README.ipynb)
   - Serves as the comprehensive reference for the Hebex graphene characterisation pipeline.
   - Breaks down the `Hebex_Graphene.py` pipeline step by step: CLI options, input assumptions, and the band windows used for D, G, and 2D features.
   - Details peak metrics (intensity, position, area), FWHM computation, and how intensity ratios drive monolayer/damage thresholds.
   - Summarises every figure exported (hexbin correlation, FWHM histogram, quadrant spectra, composite panel) with file names.
-- [`Raman Maps and Hebex Graphene/maps-graphene_README.ipynb`](Raman%20Maps%20and%20Hebex%20Graphene/maps-graphene_README.ipynb)
+- [`Raman Maps /maps-graphene_README.ipynb`](Raman%20Maps%20and%20Hebex%20Graphene/maps-graphene_README.ipynb)
   - Acts as the user guide for the map viewer used to explore Raman datasets interactively.
   - Documents the `g4.py` Raman map viewer: TSV ingestion, Savitzky–Golay smoothing, SNR gating, and band maxima extraction.
   - Explains the ratio formulas with safeguards, colour scales used across the six subplots, and interaction shortcuts (click-to-view spectrum, copy-to-clipboard).
@@ -33,4 +33,5 @@ This top-level README links the three notebook-based guides that document the Ra
 
 
 Feel free to extend this README with additional guides (e.g., SNV pipeline, GUI walkthroughs) as new documentation becomes available.
+
 
